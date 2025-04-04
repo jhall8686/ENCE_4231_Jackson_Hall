@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;Blink_LED_FromExisting&apos; to &apos;Button_Controlled_LED&apos;" description="Rename resource &apos;Blink_LED_FromExisting&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Blink_LED_FromExisting" name="Button_Controlled_LED" stamp="1743707680209" updateReferences="true"/>&#x0A;&#x0A;</session>
