@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Counter_Testing&apos; to &apos;Counter_Pooling&apos;" description="Rename resource &apos;Counter_Testing&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Counter_Testing" name="Counter_Pooling" stamp="1744309041720" updateReferences="true"/>
+</session>

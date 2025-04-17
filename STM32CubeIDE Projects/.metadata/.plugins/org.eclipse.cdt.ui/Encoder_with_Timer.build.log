@@ -1,0 +1,10 @@
+13:50:15 **** Incremental Build of configuration Debug for project Encoder_with_Timer ****
+make -j16 all 
+arm-none-eabi-size  Encoder_with_Timer.elf 
+   text	   data	    bss	    dec	    hex	filename
+  39528	    124	   4284	  43936	   aba0	Encoder_with_Timer.elf
+Finished building: default.size.stdout
+ 
+
+13:50:15 Build Finished. 0 errors, 0 warnings. (took 312ms)
+

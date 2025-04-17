@@ -1,0 +1,10 @@
+13:31:46 **** Incremental Build of configuration Debug for project Input_Capture_Interrupt ****
+make -j16 all 
+arm-none-eabi-size  Input_Capture_Interrupt.elf 
+   text	   data	    bss	    dec	    hex	filename
+  40128	    124	   4212	  44464	   adb0	Input_Capture_Interrupt.elf
+Finished building: default.size.stdout
+ 
+
+13:31:47 Build Finished. 0 errors, 0 warnings. (took 467ms)
+
