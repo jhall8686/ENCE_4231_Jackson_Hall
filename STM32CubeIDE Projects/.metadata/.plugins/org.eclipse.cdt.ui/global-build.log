@@ -1933,3 +1933,24 @@ Finished building: default.size.stdout
  
 Finished building: Ultrasonic_Sensor_Challenge.list
  
+13:41:54 **** Incremental Build of configuration Debug for project Ultrasonic_Sensor_Challenge ****
+make -j16 all 
+arm-none-eabi-size  Ultrasonic_Sensor_Challenge.elf 
+   text	   data	    bss	    dec	    hex	filename
+  44020	    124	   4292	  48436	   bd34	Ultrasonic_Sensor_Challenge.elf
+Finished building: default.size.stdout
+ 
+13:42:23 **** Incremental Build of configuration Debug for project Ultrasonic_Sensor_Challenge ****
+make -j16 all 
+arm-none-eabi-size  Ultrasonic_Sensor_Challenge.elf 
+   text	   data	    bss	    dec	    hex	filename
+  44020	    124	   4292	  48436	   bd34	Ultrasonic_Sensor_Challenge.elf
+Finished building: default.size.stdout
+ 
+13:43:14 **** Incremental Build of configuration Debug for project Ultrasonic_Sensor_Challenge ****
+make -j16 all 
+arm-none-eabi-size  Ultrasonic_Sensor_Challenge.elf 
+   text	   data	    bss	    dec	    hex	filename
+  44020	    124	   4292	  48436	   bd34	Ultrasonic_Sensor_Challenge.elf
+Finished building: default.size.stdout
+ 

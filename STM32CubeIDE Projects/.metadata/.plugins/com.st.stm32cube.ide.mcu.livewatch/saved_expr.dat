@@ -1,4 +1,3 @@
-gTime_us
-gDeltaTime
-gTrigSent
+gPulseLength
 gEchoRec
+gDistance_cm
