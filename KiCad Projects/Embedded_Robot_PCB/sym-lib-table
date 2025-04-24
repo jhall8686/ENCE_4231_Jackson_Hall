@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SW_uP_Boot")(type "KiCad")(uri "${KIPRJMOD}/Components/JS202011SCQN_Button/SW_uP_Boot.kicad_sym")(options "")(descr ""))
+  (lib (name "ABLSG-8.000MHZ")(type "KiCad")(uri "${KIPRJMOD}/Components/ABLSG-8.000MHZ/ABLSG-8.000MHZ-D-2-Y-T.kicad_sym")(options "")(descr ""))
+)

@@ -1,4 +1,4 @@
-24740831526155787
+24746067743745291
 2652
 MODULE_2652
 
@@ -6,6 +6,13 @@ MODULE_2652
 0
 9
 9
+ABLSG-8.000MHZ
+XTAL_ABLSG-8.000MHZ-D-2-Y-T
+
+
+0
+3
+3
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91209,6 +91216,20 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SW_uP_Boot
+SW_JS202011SCQN
+
+
+0
+6
+6
+SW_uP_Reset
+SW_uP_Reset
+434121050816-2
+Switch
+0
+2
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
