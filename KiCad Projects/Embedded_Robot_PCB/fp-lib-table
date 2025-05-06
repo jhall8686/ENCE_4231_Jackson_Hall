@@ -1,8 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "SW_uP_Reset")(type "KiCad")(uri "${KIPRJMOD}/Components/SW_uP_Reset/SW_uP_Reset.pretty")(options "")(descr ""))
-  (lib (name "SW_uP_Boot")(type "KiCad")(uri "${KIPRJMOD}/Components/JS202011SCQN_Button/SW_uP_Boot.pretty")(options "")(descr ""))
-  (lib (name "ABLSG-8.000MHZ")(type "KiCad")(uri "${KIPRJMOD}/Components/ABLSG-8.000MHZ/ABLSG-8.000MHZ.pretty")(options "")(descr ""))
-  (lib (name "MDBT42T-AT")(type "KiCad")(uri "${KIPRJMOD}/Components/MDBT42T-AT/MDBT42T-AT.pretty")(options "")(descr ""))
-  (lib (name "RGB_LED")(type "KiCad")(uri "${KIPRJMOD}/Components/RGB_LED/RGB_LED.pretty")(options "")(descr ""))
-)
