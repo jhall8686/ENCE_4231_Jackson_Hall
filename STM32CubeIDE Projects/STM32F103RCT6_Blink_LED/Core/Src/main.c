@@ -51,7 +51,10 @@ UART_HandleTypeDef huart1;
 PCD_HandleTypeDef hpcd_USB_FS;
 
 /* USER CODE BEGIN PV */
-
+uint32_t gCounter = 0;
+int16_t gCount = 0;
+int16_t gPosition = 0;
+int16_t gSpeed = 0;
 /* USER CODE END PV */
 
 /* Private function prototypes -----------------------------------------------*/
@@ -106,7 +109,7 @@ int main(void)
   MX_USB_PCD_Init();
   MX_SPI2_Init();
   /* USER CODE BEGIN 2 */
-
+  HAL_TIM_Encoder_Start_IT(&htim2, TIM_CHANNEL_ALL);
   /* USER CODE END 2 */
 
   /* Infinite loop */
@@ -399,7 +402,14 @@ static void MX_GPIO_Init(void)
 }
 
 /* USER CODE BEGIN 4 */
+void HAL_TIM_IC_CaptureCallback(TIM_HandleTypeDef *htim) {
+	gCounter = __HAL_TIM_GET_COUNTER(htim);
 
+	gCount = (int16_t)gCounter;
+
+	gPosition = gCount/4;
+
+}
 /* USER CODE END 4 */
 
 /**

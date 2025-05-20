@@ -3,6 +3,7 @@
 	<item key="hasShownOverlayPopupBefore" value="true"/>
 	<item key="replaceBarOpen" value="false"/>
 	<list key="searchhistory">
+		<item value="gSpeed"/>
 		<item value="interrupt"/>
 		<item value="irq"/>
 		<item value="HAL_TIM_IC_CaptureCallback"/>
