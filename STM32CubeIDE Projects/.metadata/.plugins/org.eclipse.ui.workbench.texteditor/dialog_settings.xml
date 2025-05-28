@@ -3,6 +3,8 @@
 	<item key="hasShownOverlayPopupBefore" value="true"/>
 	<item key="replaceBarOpen" value="false"/>
 	<list key="searchhistory">
+		<item value="DS3231"/>
+		<item value="D3231"/>
 		<item value="gSpeed"/>
 		<item value="interrupt"/>
 		<item value="irq"/>

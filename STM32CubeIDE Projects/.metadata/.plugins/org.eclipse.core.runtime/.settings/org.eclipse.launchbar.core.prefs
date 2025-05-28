@@ -1,7 +1,7 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DAC_Pot_Challenge Debug
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:I2C_Pooling Debug
 eclipse.preferences.version=1
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADC_DMA_Multiple\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:ADC_Demo\ Debug/activeLaunchMode=debug
@@ -21,6 +21,8 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:EXTI_Testing\ Debug/activeLaunc
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Encoder_with_Timer\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Encoder_with_Timer\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:GPIO_Timer_Start\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:I2C_Pooling\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:I2C_Pooling\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Input_Capture_Interrupt\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Input_Capture_Interrupt\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LED\ Button\ Debug/activeLaunchMode=run
